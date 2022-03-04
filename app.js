@@ -13,6 +13,8 @@ const mongoose = require('mongoose');
 //create application
 const app = express();
 
+//changing this part right here 
+
 //configure app
 let port = 3000;
 let host = 'localhost';
